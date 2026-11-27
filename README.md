@@ -4,6 +4,10 @@ An interactive and responsive educational website dedicated to **Antigone**, the
 
 This project was developed to support a French literature oral presentation by providing a clear, structured, and interactive way to explore the play.
 
+##  Live Demo
+
+[ View Live Website](https://exposee-v2-5p366ac7v-mohamed-s-projects-lol.vercel.app/)
+
 ##  Features
 
 - **Home:** Introduction to the project.
@@ -70,6 +74,9 @@ The website uses a dark theatrical aesthetic inspired by the atmosphere of ancie
 
 *Antigone* by Jean Anouilh is a tragedy inspired by the ancient Greek myth of Antigone. It explores the conflict between individual conscience and political authority.
 
+##  Author
+
+**Mohamed El Karkri**
 
 GitHub: [@med-ndr](https://github.com/med-ndr)
 
