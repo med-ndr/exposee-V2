@@ -1,10 +1,10 @@
-# 🎭 Antigone – Interactive Presentation
+#  Antigone – Interactive Presentation
 
 An interactive and responsive educational website dedicated to **Antigone**, the famous tragedy written by Jean Anouilh.
 
 This project was developed to support a French literature oral presentation by providing a clear, structured, and interactive way to explore the play.
 
-## ✨ Features
+##  Features
 
 - **Home:** Introduction to the project.
 - **The Author:** Biography of Jean Anouilh.
@@ -18,7 +18,7 @@ This project was developed to support a French literature oral presentation by p
 - **Interactive Quiz:** Test your knowledge with an interactive quiz.
 - **Responsive Design:** Adapted to different screen sizes.
 
-## 🛠️ Technologies
+##  Technologies
 
 - React.js
 - Vite
@@ -28,7 +28,7 @@ This project was developed to support a French literature oral presentation by p
 - Tailwind CSS
 - React Router
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 
