@@ -74,9 +74,6 @@ The website uses a dark theatrical aesthetic inspired by the atmosphere of ancie
 
 *Antigone* by Jean Anouilh is a tragedy inspired by the ancient Greek myth of Antigone. It explores the conflict between individual conscience and political authority.
 
-##  Author
-
-**Mohamed El Karkri**
 
 GitHub: [@med-ndr](https://github.com/med-ndr)
 
