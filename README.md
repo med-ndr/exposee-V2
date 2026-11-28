@@ -80,3 +80,7 @@ GitHub: [@med-ndr](https://github.com/med-ndr)
 ---
 
  If you find this project interesting, feel free to explore the repository!
+
+ <p align="center">
+  Developed with  as an educational project.
+</p>
